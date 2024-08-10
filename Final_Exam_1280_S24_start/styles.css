@@ -1,0 +1,68 @@
+html {
+
+}
+
+h1,
+
+p {
+    font-size: 3em;
+}
+
+body {
+    margin: auto;
+    width: 75%;
+    background-color: bisque;
+}
+
+#banner {
+    margin: auto;
+    text-align: center;
+    background-color: ivory;
+    height: 20vh;
+    border: black 5px solid;
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin: auto;
+    text-align: center;
+    background-color: #9cddd0;
+    width: 20%;
+    height: 40px;
+    width: 140px;
+    border: black 2 px solid;
+    margin-bottom: 10px;
+}
+
+input {
+    margin: auto;
+    text-align: center;
+    width: 20%;
+    line-height: 2em;
+    margin-bottom: 1%;
+    border: black 5px solid;
+    font-size: x-large;
+}
+
+#card {
+    color: red;
+    height: 70vh;
+    margin: 5px;
+    padding: auto;
+    border: black 5px solid;
+    padding: auto;
+    text-align: center;
+    background-size: 100%;
+    font-weight: bolder;
+    text-shadow: 0px 0px 3px #ffffff, -1px -1px #ffffff, 1px 1px #ffffff;
+    background-size: 100% 150%;
+}
+
+
+
+
+sub {
+    font-size: 0.5em;
+    color: #000000;
+}
